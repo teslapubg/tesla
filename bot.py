@@ -4,7 +4,7 @@ import datetime
 from requests import get,post
 from json import loads
 math 
-bot=Bot("skkicyxgpqclwduseswnpvkbhfyntwvb")
+bot=Bot("wcpibrfcpalcedjgbyjpjbupsbpwzycx")
 list_message_seened = []
 time_reset = round(datetime.datetime.today().timestamp()) + 350
 guid_of_channel = "c0BBn8M0cebcb29053371be24624abd3"
